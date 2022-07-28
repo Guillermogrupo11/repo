@@ -1,7 +1,7 @@
 /* ------ SECTION'S ------ */
 section {
     align-items: center;
-    background: url(https://raw.githubusercontent.com/) repeat;
+    background: url(https://raw.githubusercontent.com/PaulaLemStaFe/PortfolioWebFullStack/master/02-Front-End-Angular/PortfolioWebFullStack/src/assets/img/grain.png) repeat;
     display: flex;
     width: 100%;
 }
